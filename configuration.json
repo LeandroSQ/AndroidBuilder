@@ -1,0 +1,10 @@
+{
+	"application_package_name": "novo.pacote.br",
+	"application_icon_path": ".\\icons\\app-icon.png",
+	"application_path": ".\\application\\partial-view",
+	"build_type": "debug",
+	"signing_keystore_path": ".\\application\\partial-view\\keystore.jks",
+	"signing_alias": "alias0",
+	"signing_keystore_password": "123456",
+	"signing_password": "123456"
+}
